@@ -9,13 +9,13 @@ main:
     DOI: https://10.1111/jvh.13667
     image: ./assets/img/JVH.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    Journal_short: CVPR
-    Journal: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    PMID: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    DOI: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/teaser_example.png
+  - title: Adding an Artificial Tail-Anchor to a Peptide-Based HIV-1 Fusion Inhibitor for Improvement of Its Potency and Resistance Profile
+    authors: Shan Su, Zhenxuan Ma, Chen Hua, Weihua Li, Lu Lu, <strong>Zhenxuan Ma</strong>, Shibo Jiang* (*Corresponding authors)
+    Journal_short: Molecules
+    Journal: Molecules <strong>(Molecules)</strong>, 2017.
+    pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150406/pdf/molecules-22-01996.pdf
+    PMID: https://pubmed.ncbi.nlm.nih.gov/29156603/
+    DOI: https://10.3390/molecules22111996
+    image: ./assets/img/molecules.jpg
 
 remote_theme: yaoyao-liu/minimal-light

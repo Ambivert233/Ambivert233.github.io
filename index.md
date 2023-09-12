@@ -20,7 +20,7 @@ When I was an undergraduate student, I joined Professor [Shibo Jiang](https://sc
 - **[Apr. 2019]** Our paper about immune effects in hepatitis B patients is accepted by PLoS Pathog.
 
 {% include_relative _includes/publications.md %}
-- **[Infection and Drug Resistance]** [Comparison of Pegylated Interferon Alfa Therapy in Combination with Tenofovir Alafenamide Fumarate or Tenofovir Disoproxil Fumarate for Treatment of Chronic Hepatitis B Patients](https://pubmed.ncbi.nlm.nih.gov/37361938/)Jingjing He, Yifei Guo, Yao Zhang, Jiajia Han, Jingwen Chen, Yidi Jia, **Zhenxuan Ma**, Jingwen Wu, Shenyan Zhang, Fahong Li, Richeng Mao, Jiming Zhang
+- **[Infection and Drug Resistance]** [Comparison of Pegylated Interferon Alfa Therapy in Combination with Tenofovir Alafenamide Fumarate or Tenofovir Disoproxil Fumarate for Treatment of Chronic Hepatitis B Patients](https://pubmed.ncbi.nlm.nih.gov/37361938/),Jingjing He, Yifei Guo, Yao Zhang, Jiajia Han, Jingwen Chen, Yidi Jia, **Zhenxuan Ma**, Jingwen Wu, Shenyan Zhang, Fahong Li, Richeng Mao, Jiming Zhang,**Jue.2023**
 - **[Infection and Drug Resistance]** Jingjing He, Yifei Guo, Yao Zhang, Jiajia Han, Jingwen Chen, Yidi Jia, **Zhenxuan Ma**, Jingwen Wu, Shenyan Zhang, Fahong Li, Richeng Mao, Jiming Zhang
 
 {% include_relative _includes/services.md %}

@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     PMID: https://pubmed.ncbi.nlm.nih.gov/35293082/
     DOI: https://10.1111/jvh.13667
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/JVH.jpg
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun

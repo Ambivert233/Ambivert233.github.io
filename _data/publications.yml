@@ -17,3 +17,5 @@ main:
     PMID: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     DOI: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/teaser_example.png
+
+remote_theme: yaoyao-liu/minimal-light

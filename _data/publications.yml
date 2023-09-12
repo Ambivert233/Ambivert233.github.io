@@ -6,7 +6,6 @@ main:
     Journal: Journal of  Viral Hepatitis <strong>(JVH)</strong>, 2022.
     pdf: https://onlinelibrary.wiley.com/doi/10.1111/jvh.13667
     PMID: https://pubmed.ncbi.nlm.nih.gov/35293082
-    DOI: https://10.1111/jvh.13667
     image: ./assets/img/JVH.jpg
 
   - title: Adding an Artificial Tail-Anchor to a Peptide-Based HIV-1 Fusion Inhibitor for Improvement of Its Potency and Resistance Profile
@@ -15,7 +14,6 @@ main:
     Journal: Molecules <strong>(Molecules)</strong>, 2017.
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6150406/pdf/molecules-22-01996.pdf
     PMID: https://pubmed.ncbi.nlm.nih.gov/29156603
-    DOI: https://10.3390/molecules22111996
     image: ./assets/img/molecules.jpg
 
 remote_theme: yaoyao-liu/minimal-light

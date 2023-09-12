@@ -51,3 +51,4 @@
 </ol>
 </div>
 
+remote_theme: yaoyao-liu/minimal-light

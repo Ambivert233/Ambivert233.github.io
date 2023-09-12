@@ -22,4 +22,3 @@ I am a Geriatrician in Huashan Hospital affiliated to Fudan University.
 
 {% include_relative _includes/services.md %}
 
-remote_theme: yaoyao-liu/minimal-light

@@ -6,15 +6,15 @@ email: zxma13@fudan.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
+keywords: Ma zhenxuan
 description: This is Ma Zhenxuan's academic personal homepage.
 canonical: https://Ambivert233.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=pKshriIAAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
+github_link: https://github.com/Ambivert233
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 

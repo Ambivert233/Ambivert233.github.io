@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Geriatrician in Huashan Hospital affiliated to Fudan University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Biology:** Virology, Internal medicine, Gastroenterology
+- **Public Health:** Epidemiology, Biostatistics, Preventive medicine
 
 ## News
 

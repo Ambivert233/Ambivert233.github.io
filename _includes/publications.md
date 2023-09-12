@@ -27,9 +27,6 @@
       {% if link.PMID %} 
       <a href="{{ link.PMID }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PMID</a>
       {% endif %}
-      {% if link.DOI %} 
-      <a href="{{ link.DOI }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-      {% endif %}
       {% if link.others %} 
       {{ link.others }}
       {% endif %}

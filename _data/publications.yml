@@ -4,7 +4,7 @@ main:
     authors: <strong>Zhenxuan Ma<strong>, Yanli Qin, Yidi Jia and etc, <strong>Jiming Zhang*<strong> (*Corresponding authors)
     Journal_short: JVH
     Journal: Journal of  Viral Hepatitis <strong>(JVH)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/files/JVH.pdf
     PMID: https://pubmed.ncbi.nlm.nih.gov/35293082
     DOI: https://10.1111/jvh.13667
     image: ./assets/img/JVH.jpg

@@ -8,7 +8,7 @@ I am a Geriatrician in Huashan Hospital affiliated to Fudan University.
 
 ## Research Interests
 
-- **Biology:** Virology, Internal medicine, Gastroenterology
+- **Biology:** Aging, Virology, Gastroenterology
 - **Public Health:** Epidemiology, Biostatistics, Preventive medicine
 
 ## News

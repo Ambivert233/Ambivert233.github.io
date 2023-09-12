@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Geriatrician in **Huashan Hospital**(华山医院) affiliated to **Fudan University**(复旦大学).I received my bachelor degree of Clinical Medicine from Fudan University in 2018 and was recommended to study for a master's degree without examination in Infectious Disease Department of Huashan Hospital affiliated to Fudan University.Meanwhile,I completed the standardized training of internal medicine residents for 3 years.Since 2021, I have been working as a geriatrician in the geriatric Department of Huashan Hospital.I am about to complete the specialized training program of geriatrics in 2023.
+I am a Geriatrician in **Huashan Hospital**(华山医院) affiliated to **Fudan University**(复旦大学).I received my bachelor degree of Clinical Medicine from Fudan University in 2018 and was recommended to study for a master's degree without examination in Infectious Disease Department of Huashan Hospital.Meanwhile,I completed the standardized training of internal medicine residents for 3 years.Since 2021, I have been working as a geriatrician in the geriatric Department of Huashan Hospital.I am about to complete the specialized training program of geriatrics in 2023.
 When I was an undergraduate student, I joined Professor Shibo Jiang's team to study peptide-based HIV fusion inhibitors. During my master's degree, I joined Professor Zhang Jiming's team to engage in research related to hepatitis B. I have published 7 papers(**total citations:121**), one of the articles which I am the first author was selected as a **cover article** for Journal of viral hepatitis.
 
 ## Research Interests

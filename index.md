@@ -11,7 +11,7 @@ I have published 7 papers(**total citations:121**), one of the articles which I 
 
 ## Research Interests
 
-- **Biology:** Aging, Virology, Gastroenterology
+- **Biology:** Microbiology, Virology, Gastroenterology
 - **Public Health:** Epidemiology, Biostatistics, Preventive medicine
 
 ## News

@@ -5,9 +5,9 @@ layout: homepage
 ## About Me
 
 I am a Geriatrician in **Huashan Hospital**(华山医院) affiliated to **Fudan University**(复旦大学).I received my bachelor degree of Clinical Medicine from Fudan University in 2018 and was recommended to study for a master's degree without examination in Infectious Disease Department of Huashan Hospital.  
-Meanwhile,I completed the standardized training of internal medicine residents for 3 years.Since 2021, I have been working as a geriatrician in the geriatric Department of Huashan Hospital.I am about to complete the specialized training program of geriatrics in 2023.  
-When I was an undergraduate student, I joined Professor [Shibo Jiang](https://scholar.google.com.hk/citations?user=5GMHISsAAAAJ)'s team to study peptide-based HIV fusion inhibitors. During my master's degree, I joined Professor Jiming Zhang's team to participate in research related to hepatitis B.  
-I have published 7 papers(**total citations:121**), one of the articles which I am the first author was selected as a **cover article** for Journal of viral hepatitis.
+Simultaneously, I undertook an intensive three-year residency in Internal Medicine, honing my clinical expertise. Since 2021, I have served as a dedicated geriatrician in Geriatric Department of Huashan Hospital,anticipating the successful culmination of my specialized geriatrics training program in 2023.I actively engaged in the care and management of COVID-19 patients, an experience that catalyzed my profound interest in the field of public health.  
+During my undergraduate tenure, I had the privilege of joining the esteemed team led by Professor [Shibo Jiang](https://scholar.google.com.hk/citations?user=5GMHISsAAAAJ),contributing significantly to research on peptide-based HIV fusion inhibitors. Subsequently, during my pursuit of a Master's degree, I collaborated with Professor Jiming Zhang's distinguished research group, delving into critical investigations pertaining to hepatitis B.  
+My contributions to academia are underscored by the publication of seven peer-reviewed papers, which have garnered **a total of 121 citations**. Notably, one of these articles, for which I am the first author, was chosen as the **cover feature** for Journal of Viral Hepatitis,
 
 ## Research Interests
 

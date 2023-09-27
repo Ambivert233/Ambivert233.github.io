@@ -11,9 +11,9 @@ My contributions to academia are underscored by the publication of seven peer-re
 
 ## Research Interests
 
-- **Biology:** Microbiology, Virology, Gastroenterology
-- **Medicine:** Internal medicine，Geriatrics,Infectious Diseases
-- **Public Health:** Epidemiology, Biostatistics, Preventive medicine
+- **Biology:** Microbiology,Virology
+- **Medicine:** Hepatology,Geriatrics,Infectious Diseases
+- **Public Health:** Epidemiology,Biostatistics,Preventive medicine
 
 ## News
 
